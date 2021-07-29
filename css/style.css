@@ -21,3 +21,9 @@ background-color: #E76F51;
 .fa-star{
   color:#E76F51;
 }
+a{
+  text-decoration: none;
+  background-color: orange;
+  color:#fff;
+  padding: 5px;
+}
